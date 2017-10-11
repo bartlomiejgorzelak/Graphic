@@ -19,7 +19,7 @@
 
 <p align="center">
   <img src="https://github.com/bartlomiejgorzelak/Graphic/blob/master/Android%20App%20designg/GIFT/login.png" width="350"/>
-   <img src="https://github.com/bartlomiejgorzelak/Graphic/blob/master/Android%20App%20designg/GIFT/MOJE%20PREZ.png" width="350"
+   <img src="https://github.com/bartlomiejgorzelak/Graphic/blob/master/Android%20App%20designg/GIFT/MOJE%20PREZ.png" width="350"/>
   <img src="https://github.com/bartlomiejgorzelak/Graphic/blob/master/Android%20App%20designg/GIFT/MOJE%20SCHOWANE.png" width="350"/>
   <img src="https://github.com/bartlomiejgorzelak/Graphic/blob/master/Android%20App%20designg/GIFT/menu.png" width="350"/>
    <img src="https://github.com/bartlomiejgorzelak/Graphic/blob/master/Android%20App%20designg/GIFT/nowy%20produkt.png" width="350"/>
