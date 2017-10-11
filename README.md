@@ -2,7 +2,9 @@
 
 
 <p align="center">
-  <img src="https://github.com/bartlomiejgorzelak/Graphic/blob/master/Website/gamewebsite.png?raw=true"/>
+<img src="https://github.com/bartlomiejgorzelak/Graphic/blob/master/Website/gamewebsite.png?raw=true"/>
+  
+  <img src="https://github.com/bartlomiejgorzelak/Graphic/blob/master/Website/oponyv.jpeg?raw=true"/>
   <img src="https://github.com/bartlomiejgorzelak/Graphic/blob/master/Website/xperience.png?raw=true"/>
     <img src="https://github.com/bartlomiejgorzelak/Graphic/blob/master/Website/opny1.png?raw=true"/>
 </p>
